@@ -4,7 +4,7 @@
     "@types/react": "^16.0.5",
     "@types/react-dom": "^15.5.4",
     "js-yaml": "^3.9.1",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.19",
     "preact": "^8.2.1",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
